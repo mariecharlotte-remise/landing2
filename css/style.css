@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@200&family=Lora&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body{
+	font-family: 'Roboto', serif;
+	font-size: 18px;  
+	margin: 0px;
+	text-align: center;
+}
+h1 {
+		font-family: 'Nerko One', cursive;
+		font-size: 60px;
+}
+
+h2 {
+	font-family: 'Nerko One', cursive;
+	font-weight: bold;
+	color: #6D71DD;
+}
+h3 {
+	font-family: 'Nerko One', cursive;
+	font-weight: bold;
+}
+h4{
+	font-family: 'Nerko One', cursive;
+	font-weight: bold;
+}
+
+a{
+	text-decoration: none;
+}
